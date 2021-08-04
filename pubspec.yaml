@@ -1,0 +1,12 @@
+name: lv95
+version: 0.0.1
+description: >-
+  A dart package that provides conversions between Swiss LV95 (CH1903+)
+  coordinates and WGS84 coordinates.
+homepage: https://github.com/perron2/lv95
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  test: ^1.16.8
